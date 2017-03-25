@@ -1,0 +1,2 @@
+# DoubleXP
+Minecraft plugin - DoubleXP
