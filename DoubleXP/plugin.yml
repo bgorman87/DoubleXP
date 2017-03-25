@@ -1,0 +1,10 @@
+name: DoubleXP
+main: me.bgorman.DoubleXP.DoubleXP
+version: 1.0
+commands:
+   dxp:
+     description: Set xp multiplier
+     usage: /dxp <integer value> (e.g /dxp 2) 
+   dpc:
+     description: Set playercount for multiplier activation
+     usage: /dpc <integer value> (e.g. /dpc 5)
